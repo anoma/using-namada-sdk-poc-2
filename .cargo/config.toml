@@ -1,0 +1,2 @@
+[env]
+PATH_FROM_CRATE_ROOT_TO_WASM_BINARIES = "/assets/wasm_binaries"
